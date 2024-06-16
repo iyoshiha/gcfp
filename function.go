@@ -1,5 +1,5 @@
 package gcfp
 
-func gcfPrint() string{
+func GcfPrint() string{
   return "this is gcfPrint"
 }
